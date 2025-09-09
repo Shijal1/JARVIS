@@ -8,7 +8,7 @@ It mimics the idea of Tony Stark’s J.A.R.V.I.S from Iron Man but in a simplifi
 Name: Jarvis – AI Virtual Assistant
 Purpose: To automate tasks such as opening apps, searching the web, playing music, sending emails, fetching weather/news, or answering general questions.
 
-Technology Stack:
+Technology Stack: 
 Speech Recognition (Google Speech API / SpeechRecognition library)
 Text-to-Speech (pyttsx3 or gTTS)
 NLP & Automation (Python, APIs, os, webbrowser, smtplib, datetime, etc.)
