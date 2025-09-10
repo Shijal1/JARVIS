@@ -11,7 +11,7 @@ Purpose: To automate tasks such as opening apps, searching the web, playing musi
 Technology Stack: 
 Speech Recognition (Google Speech API / SpeechRecognition library)
 Text-to-Speech (pyttsx3 or gTTS)
-NLP & Automation (Python, APIs, os, webbrowser, smtplib, datetime, etc.)
+NLP & Automation (Python, APIs, os, webbrowser, smtplib, datetime, etc.) 
 Optional: AI/ML models for smarter conversations (like GPT integration).
 
 Core Features:
