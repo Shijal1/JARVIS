@@ -1,6 +1,6 @@
 # JARVIS
 Project Description
-
+ 
 Jarvis is a personal AI voice assistant built to automate daily tasks, respond to voice commands, and provide real-time information. The project integrates speech recognition, natural language processing (NLP), and task automation to allow users to interact with their computer in a more natural and conversational way.
 It mimics the idea of Tony Stark’s J.A.R.V.I.S from Iron Man but in a simplified, real-world version using Python and various libraries.
 
